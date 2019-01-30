@@ -2,7 +2,7 @@
 
 Script to manage passwords in an encrypted file using gpg.
 
-**New!** [Purse](https://github.com/drduh/Purse) is a fork which uses public key authentication instead of a master passphrase and can integrate with YubiKey.
+**New!** [Purse](https://github.com/anoncam/Purse) is a fork which uses public key authentication instead of a master passphrase and can integrate with YubiKey.
 
 # Installation
 
